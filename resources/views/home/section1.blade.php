@@ -19,8 +19,10 @@
                 <h1 class="text-4xl font-serif tracking-tight text-white sm:text-6xl">KAMARI'S <br>MASSAGE AND
                     SPA
                 </h1>
-                <p class="mt-6 text-lg font-serif leading-8 text-gray-300">Customer comfort and happiness is our
-                    priority</p>
+                <p class="mt-1 text-lg font-serif leading-8 text-white">MASSAGE HOME SERVICE</p>
+                <p class="mt-6 text-lg font-serif leading-8 text-white">Welcome to Kamari's Spa. We provide professional
+                    massage and spa services delivered directly to your home in Bali. Enjoy the comfort of body
+                    treatments without ever needing to leave your house.</p>
                 {{-- <div class="mt-10 flex items-center justify-center gap-x-6">
                     <a href="{{ url('/tentang/jayadewata') }}"
                         class="rounded-md bg-[#FF8800] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#FFB700] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Get

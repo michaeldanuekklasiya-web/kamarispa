@@ -1,18 +1,15 @@
-<footer class="bg-[#1f4e47] text-white py-12">
+<footer class="bg-[#5b1641] text-white py-12">
     <div class="max-w-7xl mx-auto px-6 lg:px-8 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8">
         <!-- Kolom 1: Ikon dan Deskripsi -->
         <div class="flex flex-col items-start">
             <div class="mb-4">
-                <!-- Ikon SVG -->
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
-                    class="w-12 h-12">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                        d="M12 2a7 7 0 00-7 7c0 2.5 3 6.5 7 10 4-3.5 7-7.5 7-10a7 7 0 00-7-7zM12 8a2 2 0 110 4 2 2 0 010-4z" />
-                </svg>
+                <a class="flex items-center space-x-3 rtl:space-x-reverse">
+                    <img src="{{ asset('img/logo3.png') }}" class="w-[200px]" alt="Flowbite Logo">
+                </a>
             </div>
-            <p class="text-gray-300 leading-relaxed">
+            {{-- <p class="text-gray-300 leading-relaxed">
                 Nisl risus, aliquam ac leo tellus tempus mauris adipiscing tortor pharetra quam nunc risus.
-            </p>
+            </p> --}}
         </div>
 
         <!-- Kolom 2: Services -->
@@ -58,8 +55,7 @@
         <div class="max-w-7xl mx-auto px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center py-6">
             <!-- Teks Copyright -->
             <p class="text-gray-300 text-sm text-center md:text-left mb-4 md:mb-0">
-                Copyright &copy; 2024 orchid-mink-198225.hostingersite.com. Powered by
-                orchid-mink-198225.hostingersite.com.
+                Copyright &copy; kamari'spa 2024.
             </p>
 
             <!-- Ikon Media Sosial -->

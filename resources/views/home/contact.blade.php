@@ -2,10 +2,10 @@
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 max-w-7xl mx-auto">
         <!-- Bagian Informasi -->
         <div>
-            <p class="text-sm font-semibold text-[#1f4e47] uppercase tracking-wider mb-4">
+            <p class="text-sm font-semibold text-[#5b1641] uppercase tracking-wider mb-4">
                 What are you waiting for...
             </p>
-            <h2 class="text-4xl font-semibold text-[#1f4e47] mb-6">
+            <h2 class="text-4xl font-semibold text-[#5b1641] mb-6">
                 Make an appointment
             </h2>
             <p class="text-gray-500 mb-8 leading-relaxed">
@@ -15,7 +15,7 @@
 
             <!-- Lokasi -->
             <div class="flex items-start mb-6">
-                <div class="text-[#1f4e47] mr-4 mt-1">
+                <div class="text-[#5b1641] mr-4 mt-1">
                     <!-- Ikon lokasi -->
                     <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor">
@@ -24,7 +24,7 @@
                     </svg>
                 </div>
                 <div>
-                    <h3 class="font-semibold text-[#1f4e47] uppercase text-sm mb-1">Our Location</h3>
+                    <h3 class="font-semibold text-[#5b1641] uppercase text-sm mb-1">Our Location</h3>
                     <p class="text-gray-500">123 Fifth Avenue, New York, NY 10160, United States.</p>
                 </div>
             </div>
@@ -33,7 +33,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <!-- Opening Hours -->
                 <div class="flex items-start">
-                    <div class="text-[#1f4e47] mr-4 mt-1">
+                    <div class="text-[#5b1641] mr-4 mt-1">
                         <!-- Ikon jam -->
                         <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                             stroke="currentColor">
@@ -42,14 +42,14 @@
                         </svg>
                     </div>
                     <div>
-                        <h3 class="font-semibold text-[#1f4e47] uppercase text-sm mb-1">Opening Hours</h3>
+                        <h3 class="font-semibold text-[#5b1641] uppercase text-sm mb-1">Opening Hours</h3>
                         <p class="text-gray-500">Mon-Fri: 6am-10pm</p>
                         <p class="text-gray-500">Sat-Sun: 8am-2pm</p>
                     </div>
                 </div>
                 <!-- Contact -->
                 <div class="flex items-start">
-                    <div class="text-[#1f4e47] mr-4 mt-1">
+                    <div class="text-[#5b1641] mr-4 mt-1">
                         <!-- Ikon kontak -->
                         <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                             stroke="currentColor">
@@ -58,7 +58,7 @@
                         </svg>
                     </div>
                     <div>
-                        <h3 class="font-semibold text-[#1f4e47] uppercase text-sm mb-1">Contact</h3>
+                        <h3 class="font-semibold text-[#5b1641] uppercase text-sm mb-1">Contact</h3>
                         <p class="text-gray-500">Phone: +1 123-456-7890</p>
                         <p class="text-gray-500">Email: mail@example.com</p>
                     </div>
@@ -74,26 +74,26 @@
                     <label for="name" class="block text-sm font-medium text-gray-700">Name <span
                             class="text-red-500">*</span></label>
                     <input type="text" id="name" name="name" required
-                        class="mt-2 w-full p-3 border border-gray-300 rounded-lg focus:ring-[#1f4e47] focus:border-[#1f4e47]">
+                        class="mt-2 w-full p-3 border border-gray-300 rounded-lg focus:ring-[#5b1641] focus:border-[#5b1641]">
                 </div>
                 <!-- Input Email -->
                 <div>
                     <label for="email" class="block text-sm font-medium text-gray-700">Email <span
                             class="text-red-500">*</span></label>
                     <input type="email" id="email" name="email" required
-                        class="mt-2 w-full p-3 border border-gray-300 rounded-lg focus:ring-[#1f4e47] focus:border-[#1f4e47]">
+                        class="mt-2 w-full p-3 border border-gray-300 rounded-lg focus:ring-[#5b1641] focus:border-[#5b1641]">
                 </div>
                 <!-- Input Nomor Telepon -->
                 <div>
                     <label for="phone" class="block text-sm font-medium text-gray-700">Phone number <span
                             class="text-red-500">*</span></label>
                     <input type="tel" id="phone" name="phone" required
-                        class="mt-2 w-full p-3 border border-gray-300 rounded-lg focus:ring-[#1f4e47] focus:border-[#1f4e47]">
+                        class="mt-2 w-full p-3 border border-gray-300 rounded-lg focus:ring-[#5b1641] focus:border-[#5b1641]">
                 </div>
                 <!-- Tombol Submit -->
                 <div>
                     <button type="submit"
-                        class="w-full bg-[#1f4e47] text-white font-semibold py-3 rounded-lg hover:bg-[#173f38] transition duration-300">
+                        class="w-full bg-[#5b1641] text-white font-semibold py-3 rounded-lg hover:bg-[#a9367d] transition duration-300">
                         SAVE UPTO 50% TODAY
                     </button>
                 </div>

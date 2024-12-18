@@ -1,4 +1,4 @@
-<n av class="bg-[#ff81cf] fixed w-full z-20 top-0 start-0">
+<n av class="bg-[#f354b6] fixed w-full z-20 top-0 start-0">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
             <img src="{{ asset('img/logo3.png') }}" class="w-[200px]" alt="Flowbite Logo">
@@ -38,7 +38,7 @@
                 </svg>
                 <span class="sr-only">Light bulb</span>
             </span> --}}
-            <span>New brand identity has been launched for the <a href="https://wa.me/+6285929893713"
+            <span>Experienced and professional therapist <a href="https://wa.me/+6285929893713"
                     class="inline font-serif font-medium text-[#ca529c] underline  underline-offset-2 decoration-600 dark:decoration-500 decoration-solid hover:no-underline">Kamari's
                     Spa</a></span>
         </p>

@@ -2,7 +2,7 @@
     <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
         <!-- Card 1 -->
         <div class="relative group overflow-hidden rounded-lg">
-            <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b" alt="Penawaran Spesial"
+            <img src="{{ asset('img/service/ser (3).png') }}" alt="Penawaran Spesial"
                 class="w-full h-full object-cover group-hover:brightness-50 transition-all duration-300" />
             <div
                 class="absolute inset-0 flex flex-col items-center justify-center text-white px-6 text-center opacity-0 group-hover:opacity-100 transition-all duration-300">
@@ -21,7 +21,7 @@
 
         <!-- Card 2 -->
         <div class="relative group overflow-hidden rounded-lg">
-            <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b" alt="Penawaran Spesial"
+            <img src="{{ asset('img/service/ser (4).png') }}" alt="Penawaran Spesial"
                 class="w-full h-full object-cover group-hover:brightness-50 transition-all duration-300" />
             <div
                 class="absolute inset-0 flex flex-col items-center justify-center text-white px-6 text-center opacity-0 group-hover:opacity-100 transition-all duration-300">
@@ -40,7 +40,7 @@
 
         <!-- Card 3 -->
         <div class="relative group overflow-hidden rounded-lg">
-            <img src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b" alt="Penawaran Spesial"
+            <img src="{{ asset('img/service/ser (5).png') }}" alt="Penawaran Spesial"
                 class="w-full h-full object-cover group-hover:brightness-50 transition-all duration-300" />
             <div
                 class="absolute inset-0 flex flex-col items-center justify-center text-white px-6 text-center opacity-0 group-hover:opacity-100 transition-all duration-300">
