@@ -37,6 +37,10 @@
     </div>
 
     <div>
+        @include('home.section5')
+    </div>
+
+    <div>
         @include('home.ctabutton')
     </div>
 

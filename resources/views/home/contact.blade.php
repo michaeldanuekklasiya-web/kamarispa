@@ -9,8 +9,8 @@
                 Make an appointment
             </h2>
             <p class="text-gray-500 mb-8 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis,
-                pulvinar dapibus leo.
+                Schedule your relaxing spa session with Kamari's Spa Home Service today! Choose a time that fits your
+                schedule, and let our professional therapists bring a luxurious spa experience right to your doorstep.
             </p>
 
             <!-- Lokasi -->
@@ -25,7 +25,7 @@
                 </div>
                 <div>
                     <h3 class="font-semibold text-[#5b1641] uppercase text-sm mb-1">Our Location</h3>
-                    <p class="text-gray-500">123 Fifth Avenue, New York, NY 10160, United States.</p>
+                    <p class="text-gray-500">Canggu, Seminyak, Kuta, prererenan, Uluwatu, Nusa dua, Ubud.</p>
                 </div>
             </div>
 
@@ -59,8 +59,8 @@
                     </div>
                     <div>
                         <h3 class="font-semibold text-[#5b1641] uppercase text-sm mb-1">Contact</h3>
-                        <p class="text-gray-500">Phone: +1 123-456-7890</p>
-                        <p class="text-gray-500">Email: mail@example.com</p>
+                        <p class="text-gray-500">Phone: +62 859-2989-3713</p>
+                        <p class="text-gray-500">Email: kamarispa236@gmail.com</p>
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@
                 <div>
                     <button type="submit"
                         class="w-full bg-[#5b1641] text-white font-semibold py-3 rounded-lg hover:bg-[#a9367d] transition duration-300">
-                        SAVE UPTO 50% TODAY
+                        SAVE UP TO 50% TODAY
                     </button>
                 </div>
             </form>

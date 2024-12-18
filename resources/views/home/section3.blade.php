@@ -27,9 +27,10 @@
             <!-- Treatment 1 -->
             <div>
                 <h3 class="text-[#5b1641] text-sm font-semibold mb-2">01</h3>
-                <h4 class="text-2xl font-semibold text-[#5b1641] mb-2">Ayurvedic Treatment</h4>
+                <h4 class="text-2xl font-semibold text-[#5b1641] mb-2">Body / Balinesse Massage</h4>
                 <p class="text-gray-500 leading-relaxed">
-                    Maecenas in cursus laoreet pulvinar enim commodo justo sed euismod velit.
+                    Experience ultimate relaxation with our Body/Balinese Massage, a traditional technique that combines
+                    gentle stretches, acupressure, and soothing aromatherapy oils.
                 </p>
                 <hr class="mt-4 border-t border-gray-200" />
             </div>
@@ -37,9 +38,10 @@
             <!-- Treatment 2 -->
             <div>
                 <h3 class="text-[#5b1641] text-sm font-semibold mb-2">02</h3>
-                <h4 class="text-2xl font-semibold text-[#5b1641] mb-2">Ozone Therapy</h4>
+                <h4 class="text-2xl font-semibold text-[#5b1641] mb-2">Head and Shoulder Massage</h4>
                 <p class="text-gray-500 leading-relaxed">
-                    Maecenas in cursus laoreet pulvinar enim commodo justo sed euismod velit.
+                    Perfect for easing headaches, reducing stress, and restoring a sense of calm, this massage will
+                    leave you feeling refreshed and rejuvenated.
                 </p>
                 <hr class="mt-4 border-t border-gray-200" />
             </div>
