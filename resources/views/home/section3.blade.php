@@ -49,9 +49,10 @@
             <!-- Treatment 3 -->
             <div>
                 <h3 class="text-[#5b1641] text-sm font-semibold mb-2">03</h3>
-                <h4 class="text-2xl font-semibold text-[#5b1641] mb-2">Stone Cure</h4>
+                <h4 class="text-2xl font-semibold text-[#5b1641] mb-2">Foot Massage</h4>
                 <p class="text-gray-500 leading-relaxed">
-                    Maecenas in cursus laoreet pulvinar enim commodo justo sed euismod velit.
+                    Perfect for reducing stress and promoting overall well-being, a foot massage is a simple yet
+                    powerful way to rejuvenate your mind and body.
                 </p>
             </div>
         </div>

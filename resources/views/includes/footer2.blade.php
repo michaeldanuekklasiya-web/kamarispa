@@ -41,11 +41,9 @@
         <div>
             <h3 class="text-lg font-semibold mb-4">Contact</h3>
             <ul class="space-y-2 text-gray-300">
-                <li>123 Fifth Avenue, New York, NY</li>
-                <li>10160, United States.</li>
-                <li>+1 123 456 7890</li>
+                <li>Canggu, Seminyak, Kuta, prererenan, Uluwatu, Nusa dua, Ubud.</li>
                 <li><a href="mailto:mail@example.com"
-                        class="hover:text-white transition duration-300">mail@example.com</a></li>
+                        class="hover:text-white transition duration-300">kamarispa236@gmail.com</a></li>
             </ul>
         </div>
     </div>
@@ -55,7 +53,7 @@
         <div class="max-w-7xl mx-auto px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center py-6">
             <!-- Teks Copyright -->
             <p class="text-gray-300 text-sm text-center md:text-left mb-4 md:mb-0">
-                Copyright &copy; kamari'spa 2024.
+                Copyright &copy; 2024 Kamari's Spa, Inc. All rights reserved.
             </p>
 
             <!-- Ikon Media Sosial -->
@@ -65,9 +63,6 @@
                 </a>
                 <a href="#" class="text-gray-300 hover:text-white transition">
                     <i class="fab fa-facebook text-lg"></i>
-                </a>
-                <a href="#" class="text-gray-300 hover:text-white transition">
-                    <i class="fab fa-twitter text-lg"></i>
                 </a>
             </div>
         </div>

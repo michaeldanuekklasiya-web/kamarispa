@@ -43,8 +43,7 @@
                     </div>
                     <div>
                         <h3 class="font-semibold text-[#5b1641] uppercase text-sm mb-1">Opening Hours</h3>
-                        <p class="text-gray-500">Mon-Fri: 6am-10pm</p>
-                        <p class="text-gray-500">Sat-Sun: 8am-2pm</p>
+                        <p class="text-gray-500">Open 24 Hours</p>
                     </div>
                 </div>
                 <!-- Contact -->

@@ -5,12 +5,18 @@
 
         <!-- Judul -->
         <h2 class="text-4xl md:text-5xl font-semibold text-[#5b1641] leading-tight mb-6">
-            Want to make booking or <br> have a question?
+            <!-- Untuk desktop -->
+            <span class="hidden sm:inline">Want to make booking or have a question?</span>
+            <!-- Untuk tab atau ponsel -->
+            <span class="inline sm:hidden">Want to make booking <br> or have a question?</span>
         </h2>
 
         <!-- Subjudul -->
         <p class="text-[#5b1641] text-lg mb-8">
-            Call us on <span class="font-medium">+62 859-2989-3713</span> or simply book an appointment
+            <!-- Untuk desktop -->
+            <span class="hidden sm:inline">Call us on +62 859-2989-3713 or simply book an appointment</span>
+            <!-- Untuk tab atau ponsel -->
+            <span class="inline sm:hidden">Call us on +62 859-2989-3713 <br> or simply book an appointment</span>
         </p>
 
         <!-- Tombol Booking -->
