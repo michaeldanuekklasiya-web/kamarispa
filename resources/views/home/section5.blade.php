@@ -32,8 +32,7 @@
                                 d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
                                 clip-rule="evenodd" />
                         </svg>
-
-                        Deep Tissue
+                        Foot Massage
                     </li>
                     <li class="flex gap-x-3">
                         <svg class="h-6 w-5 flex-none text-[#ca529c]" viewBox="0 0 20 20" fill="currentColor"
@@ -42,9 +41,10 @@
                                 d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
                                 clip-rule="evenodd" />
                         </svg>
-                        Body / Balinesse Massage by 100% Virgin Coconut Oil
 
+                        Deep Tissue
                     </li>
+
                     <li class="flex gap-x-3">
                         <svg class="h-6 w-5 flex-none text-[#ca529c]" viewBox="0 0 20 20" fill="currentColor"
                             aria-hidden="true">
@@ -163,15 +163,7 @@
                         </svg>
                         Face Massage By 100% Natural Face Oil
                     </li>
-                    <li class="flex gap-x-3">
-                        <svg class="h-6 w-5 flex-none text-[#ca529c]" viewBox="0 0 20 20" fill="currentColor"
-                            aria-hidden="true">
-                            <path fill-rule="evenodd"
-                                d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
-                                clip-rule="evenodd" />
-                        </svg>
-                        Foot Massage
-                    </li>
+
 
                     <li class="flex gap-x-3">
                         <svg class="h-6 w-5 flex-none text-[#ca529c]" viewBox="0 0 20 20" fill="currentColor"
@@ -202,12 +194,22 @@
                         </svg>
                         Home Service Massage
                     </li>
+                    <li class="flex gap-x-3">
+                        <svg class="h-6 w-5 flex-none text-[#ca529c]" viewBox="0 0 20 20" fill="currentColor"
+                            aria-hidden="true">
+                            <path fill-rule="evenodd"
+                                d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
+                                clip-rule="evenodd" />
+                        </svg>
+                        Body / Balinesse Massage by 100% Virgin Coconut Oil
+
+                    </li>
                 </ul>
             </div>
             <div class="-mt-2 p-2 lg:mt-0 lg:w-full lg:max-w-md lg:flex-shrink-0">
                 <div class="rounded-2xl  ring-gray-900/5 lg:flex lg:flex-col lg:justify-center lg:py-16">
                     <div class="mx-auto max-w-xs">
-                        <img src="{{ asset('img/service/ser2.png') }}" alt="Massage therapy"
+                        <img src="{{ asset('img/service/spas (5).jpg') }}" alt="Massage therapy"
                             class="rounded-2xl shadow-lg object-cover w-full" />
                     </div>
                 </div>

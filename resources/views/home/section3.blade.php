@@ -6,9 +6,9 @@
                 The best of <br /> our services
             </h2>
             <p class="text-gray-500 leading-relaxed mb-8">
-                Consequat elementum, dolor egestas at faucibus dictumst at ultrices auctor gravida neque, dolor molestie
-                ut
-                fames porttitor egestas quisque bibendum felis nascetur maecenas et.
+                The best of our services include relaxing massages, rejuvenating facials, and luxurious body treatments,
+                all delivered directly to your home. We focus on your comfort and well-being, ensuring a truly pampering
+                experience every time.
             </p>
             <a href="https://wa.me/6285929893713" target="_blank"
                 class="inline-block bg-[#5b1641] text-white font-semibold px-6 py-3 rounded-lg hover:bg-[#7e295e] transition duration-300">
@@ -18,7 +18,7 @@
 
         <!-- Gambar Tengah -->
         <div class="lg:col-span-1 flex justify-center">
-            <img src="{{ asset('img/service/ser2.png') }}" alt="Massage therapy"
+            <img src="{{ asset('img/service/spas (3).jpg') }}" alt="Massage therapy"
                 class="rounded-2xl shadow-lg object-cover w-full h-[400px] lg:w-[350px] lg:h-[450px]" />
         </div>
 
