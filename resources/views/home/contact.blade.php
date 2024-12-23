@@ -59,7 +59,7 @@
                     <div>
                         <h3 class="font-semibold text-[#5b1641] uppercase text-sm mb-1">Contact</h3>
                         <p class="text-gray-500">Phone: +62 859-2989-3713</p>
-                        <p class="text-gray-500">Email: kamarispa236@gmail.com</p>
+                        <p class="text-gray-500">Email: kamarimassage@gmail.com</p>
                     </div>
                 </div>
             </div>

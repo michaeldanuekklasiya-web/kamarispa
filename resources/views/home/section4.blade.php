@@ -20,7 +20,7 @@
 
         <!-- Card 2 -->
         <div class="relative group overflow-hidden rounded-lg">
-            <img src="{{ asset('img/service/spas (1).png') }}" alt="Penawaran Spesial"
+            <img src="{{ asset('img/service/spas (3).jpg') }}" alt="Penawaran Spesial"
                 class="w-full h-full object-cover group-hover:brightness-50 transition-all duration-300" />
             <div
                 class="absolute inset-0 flex flex-col items-center justify-center text-white px-6 text-center opacity-0 group-hover:opacity-100 transition-all duration-300">
@@ -38,7 +38,7 @@
 
         <!-- Card 3 -->
         <div class="relative group overflow-hidden rounded-lg">
-            <img src="{{ asset('img/service/spas (2).png') }}" alt="Penawaran Spesial"
+            <img src="{{ asset('img/service/s (4).jpg') }}" alt="Penawaran Spesial"
                 class="w-full h-full object-cover group-hover:brightness-50 transition-all duration-300" />
             <div
                 class="absolute inset-0 flex flex-col items-center justify-center text-white px-6 text-center opacity-0 group-hover:opacity-100 transition-all duration-300">

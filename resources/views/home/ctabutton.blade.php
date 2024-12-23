@@ -14,9 +14,11 @@
         <!-- Subjudul -->
         <p class="text-[#5b1641] text-lg mb-8">
             <!-- Untuk desktop -->
-            <span class="hidden sm:inline">Call us on +62 859-2989-3713 or simply book an appointment</span>
+            <span class="hidden sm:inline">Call us on <span class="font-bold">+62 859-2989-3713</span> or simply book an
+                appointment</span>
             <!-- Untuk tab atau ponsel -->
-            <span class="inline sm:hidden">Call us on +62 859-2989-3713 <br> or simply book an appointment</span>
+            <span class="inline sm:hidden">Call us on <span class="font-bold">+62 859-2989-3713</span> <br> or simply
+                book an appointment</span>
         </p>
 
         <!-- Tombol Booking -->
