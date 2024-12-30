@@ -18,7 +18,7 @@
 
         <!-- Gambar Tengah -->
         <div class="lg:col-span-1 flex justify-center">
-            <img src="{{ asset('img/service/s (3).jpg') }}" alt="Massage therapy"
+            <img src="{{ asset('img/service/spa.jpg') }}" alt="Massage therapy"
                 class="rounded-2xl shadow-lg object-cover w-full h-[400px] lg:w-[350px] lg:h-[450px]" />
         </div>
 
