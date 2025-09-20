@@ -12,7 +12,7 @@
     <link href="../img/icon3.png" rel="shortcut icon">
 
 
-    <title>Kamari's Spa</title>
+    <title>Real Massage Bali</title>
 </head>
 
 <body class="bg-gray-50 font-sans leading-normal tracking-normal">

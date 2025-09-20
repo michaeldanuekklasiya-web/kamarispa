@@ -1,11 +1,35 @@
 <div class="bg-gray-900">
     <div class="relative isolate overflow-hidden pt-14">
-        <!-- Image with overlay -->
-        <img src=" {{ asset('img/bg.jpg') }}" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover"
-            sizes="(max-width: 600px) 480px, (max-width: 900px) 768px, 1200px">
+        <!-- Image Slider -->
+        <div class="absolute inset-0 -z-10 h-full w-full">
+            <!-- Slide 1 -->
+            <div class="slide active absolute inset-0 h-full w-full">
+                <img src="{{ asset('img/bg.jpg') }}" alt="Real Massage Bali" class="h-full w-full object-cover">
+            </div>
+            <!-- Slide 2 -->
+            <div class="slide absolute inset-0 h-full w-full">
+                <img src="{{ asset('img/service/spa.jpg') }}" alt="Professional Massage Service" class="h-full w-full object-cover">
+            </div>
+            <!-- Slide 3 -->
+            <div class="slide absolute inset-0 h-full w-full">
+                <img src="{{ asset('img/service/spas (4).jpg') }}" alt="Relaxing Spa Experience" class="h-full w-full object-cover">
+            </div>
+            <!-- Slide 4 -->
+            <div class="slide absolute inset-0 h-full w-full">
+                <img src="{{ asset('img/service/spas (3).jpg') }}" alt="Home Massage Service" class="h-full w-full object-cover">
+            </div>
+        </div>
 
         <!-- Black overlay -->
-        <div class="absolute inset-0 bg-[#5b1641] opacity-50 -z-10"></div> <!-- Adjust opacity as needed -->
+        <div class="absolute inset-0 bg-[#5b1641] opacity-50 -z-10"></div>
+
+        <!-- Slider Indicators -->
+        <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 flex space-x-2 z-10">
+            <button class="slider-dot w-3 h-3 rounded-full bg-white/50 hover:bg-white/80 transition-all duration-300 active" data-slide="0"></button>
+            <button class="slider-dot w-3 h-3 rounded-full bg-white/50 hover:bg-white/80 transition-all duration-300" data-slide="1"></button>
+            <button class="slider-dot w-3 h-3 rounded-full bg-white/50 hover:bg-white/80 transition-all duration-300" data-slide="2"></button>
+            <button class="slider-dot w-3 h-3 rounded-full bg-white/50 hover:bg-white/80 transition-all duration-300" data-slide="3"></button>
+        </div>
 
         <div class="absolute inset-x-0 -top-40 -z-20 transform-gpu overflow-hidden blur-3xl sm:-top-80"
             aria-hidden="true">
@@ -14,22 +38,26 @@
             </div>
         </div>
 
-        <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <div class="mx-auto max-w-2xl py-12 sm:py-16 md:py-24 lg:py-32 xl:py-48 px-4 sm:px-6">
             <div class="text-center">
-                <h1 class="text-4xl font-serif tracking-tight text-white sm:text-6xl">KAMARI'S <br>MASSAGE AND
-                    SPA
+                <h1 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-serif tracking-tight text-white leading-tight">
+                    <span data-en="REAL MASSAGE" data-id="REAL MASSAGE">REAL MASSAGE</span> <br class="sm:hidden"><span data-en="BALI" data-id="BALI">BALI</span>
                 </h1>
-                <p class="mt-1 text-lg font-serif leading-8 text-white">MASSAGE HOME SERVICE</p>
-                <p class="mt-6 text-lg font-serif leading-8 text-white">Welcome to Kamari's Spa! We offer relaxing
-                    massage and spa services right at your doorstep in Bali. Enjoy a soothing body treatment without
-                    having to leave the comfort of your home. </p>
-                {{-- <div class="mt-10 flex items-center justify-center gap-x-6">
-                    <a href="{{ url('/tentang/jayadewata') }}"
-                        class="rounded-md bg-[#FF8800] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#FFB700] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Get
-                        started</a>
-                    <a href="{{ url('/basketballstory') }}" class="text-sm font-semibold leading-6 text-white">Learn
-                        more <span aria-hidden="true">→</span></a>
-                </div> --}}
+                <p class="mt-2 sm:mt-3 text-sm sm:text-base md:text-lg font-serif leading-relaxed text-white/90" data-en="24 HOUR HOME SERVICE" data-id="PIJAT PANGGILAN 24 JAM">24 HOUR HOME SERVICE</p>
+                <p class="mt-4 sm:mt-6 text-xs sm:text-sm md:text-base lg:text-lg font-serif leading-relaxed text-white/80 max-w-lg mx-auto" data-en="Real Massage Bali - Professional 24-hour home massage service in Bali. Traditional massage, spa home service, professional therapists. Serving Seminyak, Kuta, Canggu, Ubud, Nusa Dua." data-id="Real Massage Bali - Layanan pijat panggilan 24 jam di Bali. Pijat tradisional, spa home service, terapis profesional. Melayani Seminyak, Kuta, Canggu, Ubud, Nusa Dua.">
+                    Real Massage Bali - Professional 24-hour home massage service in Bali. Traditional massage, spa home service, 
+                    professional therapists. Serving Seminyak, Kuta, Canggu, Ubud, Nusa Dua.
+                </p>
+                <div class="mt-6 sm:mt-8 flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-4">
+                    <a href="https://wa.me/+6285929893713" target="_blank"
+                        class="w-full sm:w-auto bg-white text-[#f354b6] px-6 py-3 rounded-full text-sm font-semibold shadow-lg hover:bg-gray-100 transition-all duration-300 text-center" data-en="BOOK NOW" data-id="BOOKING">
+                        BOOK NOW
+                    </a>
+                    <a href="#services" 
+                        class="w-full sm:w-auto border-2 border-white text-white px-6 py-3 rounded-full text-sm font-semibold hover:bg-white hover:text-[#f354b6] transition-all duration-300 text-center" data-en="Our Services" data-id="Layanan Kami">
+                        Our Services
+                    </a>
+                </div>
             </div>
         </div>
 
@@ -41,3 +69,74 @@
         </div>
     </div>
 </div>
+
+<style>
+    .slide {
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+    }
+    
+    .slide.active {
+        opacity: 1;
+    }
+    
+    .slider-dot.active {
+        background-color: rgba(255, 255, 255, 1);
+        transform: scale(1.2);
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const slides = document.querySelectorAll('.slide');
+        const dots = document.querySelectorAll('.slider-dot');
+        let currentSlide = 0;
+        const totalSlides = slides.length;
+        
+        // Function to show specific slide
+        function showSlide(index) {
+            // Remove active class from all slides and dots
+            slides.forEach(slide => slide.classList.remove('active'));
+            dots.forEach(dot => dot.classList.remove('active'));
+            
+            // Add active class to current slide and dot
+            slides[index].classList.add('active');
+            dots[index].classList.add('active');
+            
+            currentSlide = index;
+        }
+        
+        // Function to go to next slide
+        function nextSlide() {
+            const nextIndex = (currentSlide + 1) % totalSlides;
+            showSlide(nextIndex);
+        }
+        
+        // Auto-slide functionality
+        function startAutoSlide() {
+            setInterval(nextSlide, 4000); // Change slide every 4 seconds
+        }
+        
+        // Add click event listeners to dots
+        dots.forEach((dot, index) => {
+            dot.addEventListener('click', () => {
+                showSlide(index);
+            });
+        });
+        
+        // Start auto-slide
+        startAutoSlide();
+        
+        // Pause auto-slide on hover (optional)
+        const sliderContainer = document.querySelector('.bg-gray-900');
+        let autoSlideInterval;
+        
+        sliderContainer.addEventListener('mouseenter', () => {
+            clearInterval(autoSlideInterval);
+        });
+        
+        sliderContainer.addEventListener('mouseleave', () => {
+            autoSlideInterval = setInterval(nextSlide, 4000);
+        });
+    });
+</script>

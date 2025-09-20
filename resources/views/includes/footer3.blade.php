@@ -30,7 +30,7 @@
                 </svg>
             </a>
         </div>
-        <p class="mt-10 text-center text-xs leading-5 text-white">&copy; 2024 Kamari's Spa, Inc. All rights reserved.
+        <p class="mt-10 text-center text-xs leading-5 text-white">&copy; 2024 Real Massage Bali, Inc. All rights reserved.
         </p>
     </div>
 </footer>

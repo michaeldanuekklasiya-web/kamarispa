@@ -1,21 +1,21 @@
-<div class="bg-white py-24 sm:py-2">
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+<div class="bg-white py-12 sm:py-16 md:py-20 lg:py-24">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {{-- <div class="mx-auto max-w-2xl sm:text-center">
             <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Simple no-tricks pricing</h2>
             <p class="mt-6 text-lg leading-8 text-gray-600">Distinctio et nulla eum soluta et neque labore quibusdam.
                 Saepe et quasi iusto modi velit ut non voluptas in. Explicabo id ut laborum.</p>
         </div> --}}
-        <div class="mx-auto mt-16 max-w-2xl rounded-3xl  sm:mt-20 lg:mx-0 lg:flex lg:max-w-none">
-            <div class="p-8 sm:p-10 lg:flex-auto">
-                <h3 class="text-2xl font-bold tracking-tight text-[#ca529c]">Kamari's Spa Home Service</h3>
-                <p class="mt-6 text-base leading-7 text-gray-600">Kamari's Spa Home Service is the perfect solution to
+        <div class="mx-auto mt-8 sm:mt-12 md:mt-16 max-w-2xl rounded-3xl sm:mt-20 lg:mx-0 lg:flex lg:max-w-none">
+            <div class="p-4 sm:p-6 md:p-8 lg:p-10 lg:flex-auto">
+                <h3 class="text-xl sm:text-2xl font-bold tracking-tight text-[#ca529c]">Real Massage Bali Home Service</h3>
+                <p class="mt-4 sm:mt-6 text-sm sm:text-base leading-6 sm:leading-7 text-gray-600">Real Massage Bali Home Service is the perfect solution to
                     unwind, enhance your beauty, and pamper your body amidst your busy daily life.</p>
                 <div class="mt-10 flex items-center gap-x-4">
                     <h4 class="flex-none text-sm font-semibold leading-6 text-[#ca529c]">What’s included</h4>
                     <div class="h-px flex-auto bg-gray-100"></div>
                 </div>
                 <ul role="list"
-                    class="mt-8 grid grid-cols-1 gap-4 text-sm leading-6 text-gray-600 sm:grid-cols-2 sm:gap-6">
+                    class="mt-6 sm:mt-8 grid grid-cols-1 gap-3 sm:gap-4 text-xs sm:text-sm leading-5 sm:leading-6 text-gray-600 sm:grid-cols-2 sm:gap-6">
                     <li class="flex gap-x-3">
                         <svg class="h-6 w-5 flex-none text-[#ca529c]" viewBox="0 0 20 20" fill="currentColor"
                             aria-hidden="true">
@@ -198,10 +198,10 @@
                 </ul>
             </div>
             <div class="-mt-2 p-2 lg:mt-0 lg:w-full lg:max-w-md lg:flex-shrink-0">
-                <div class="rounded-2xl  ring-gray-900/5 lg:flex lg:flex-col lg:justify-center lg:py-16">
-                    <div class="mx-auto max-w-xs">
+                <div class="rounded-2xl ring-gray-900/5 lg:flex lg:flex-col lg:justify-center lg:py-16">
+                    <div class="mx-auto max-w-xs sm:max-w-sm">
                         <img src="{{ asset('img/service/s (2).jpg') }}" alt="Massage therapy"
-                            class="rounded-2xl shadow-lg object-cover w-full" />
+                            class="rounded-2xl shadow-lg object-cover w-full h-[200px] sm:h-[250px] md:h-[300px]" />
                     </div>
                 </div>
             </div>
