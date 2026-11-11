@@ -27,8 +27,8 @@
     </div>
 
     <!-- Contact Section -->
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16 md:mt-[100px]">
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12 md:py-16 mt-[80px] sm:mt-[100px]">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12">
             <!-- Contact Information -->
             <div>
                 <h2 class="text-2xl sm:text-3xl font-bold text-[#5b1641] mb-6" data-en="Get in Touch" data-id="Hubungi Kami">
@@ -90,7 +90,7 @@
                         <div>
                             <h3 class="text-lg font-semibold text-[#5b1641] mb-2" data-en="Service Areas" data-id="Area Layanan">Service Areas</h3>
                             <p class="text-gray-600" data-en="We serve all major areas of Bali including Seminyak, Kuta, Canggu, Ubud, Nusa Dua, and surrounding areas." data-id="Kami melayani semua area utama Bali termasuk Seminyak, Kuta, Canggu, Ubud, Nusa Dua, dan area sekitarnya.">
-                                We serve all major areas of Bali including Seminyak, Kuta, Canggu, Ubud, Nusa Dua, and surrounding areas.
+                                We serve all major areas of Bali including Canggu, Prererenan, Seminyak, Kuta, Nusa Dua, Uluwatu, Jimbaran, Sanur, Denpasar, Ubud, and surrounding areas.
                             </p>
                         </div>
                     </div>
@@ -198,13 +198,21 @@
     </div>
 
     <!-- Floating WhatsApp Icon -->
-    <a href="https://wa.me/6285929893713" target="_blank" class="fixed bottom-20 right-4 bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition duration-300 z-50">
-        <i class="fab fa-whatsapp text-xl"></i>
+    <a href="https://wa.me/6281220259505" target="_blank" 
+        class="fixed bottom-16 sm:bottom-20 right-3 sm:right-4 bg-green-500 text-white p-3 sm:p-4 rounded-full shadow-lg hover:bg-green-600 transition duration-300 z-50 group"
+        title="WhatsApp Real Massage Bali - +62 812-2025-9505">
+        <i class="fab fa-whatsapp text-lg sm:text-xl"></i>
+        <span class="absolute right-full mr-2 sm:mr-3 top-1/2 transform -translate-y-1/2 bg-gray-800 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">
+            Chat WhatsApp - +62 812-2025-9505
+        </span>
     </a>
 
     <!-- Back to Top Button -->
-    <button onclick="scrollToTop()" class="fixed bottom-4 right-4 bg-gray-800 text-white p-3 rounded-full shadow-lg hover:bg-gray-900 transition duration-300 z-50">
-        <i class="fas fa-arrow-up text-xl"></i>
+    <button onclick="scrollToTop()" class="fixed bottom-3 sm:bottom-4 right-3 sm:right-4 bg-gray-800 text-white p-3 sm:p-4 rounded-full shadow-lg hover:bg-gray-900 transition duration-300 z-50 group">
+        <i class="fas fa-arrow-up text-lg sm:text-xl"></i>
+        <span class="absolute right-full mr-2 sm:mr-3 top-1/2 transform -translate-y-1/2 bg-gray-800 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap">
+            Back to Top
+        </span>
     </button>
 
     <script>
@@ -253,7 +261,7 @@
             whatsappMessage += `\n🙏 Thank you for choosing Real Massage Bali! We will contact you shortly to confirm your booking.`;
             
             // WhatsApp number
-            const whatsappNumber = '6285929893713';
+            const whatsappNumber = '6281220259505';
             
             // Create WhatsApp URL
             const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;

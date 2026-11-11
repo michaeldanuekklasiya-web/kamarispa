@@ -5,7 +5,7 @@
             <!-- Left Section -->
             <div class="text-center md:text-left">
                 <h2 class="text-xl sm:text-2xl font-bold font-serif mb-4 text-primary-400">Real Massage Bali</h2>
-                <p class="mb-6 text-neutral-400 text-sm sm:text-base leading-relaxed" data-en="Real Massage Bali - Professional 24-hour home massage service in Bali. Traditional massage, spa home service, serving Seminyak, Kuta, Canggu, Ubud, Nusa Dua." data-id="Real Massage Bali - Layanan pijat panggilan 24 jam di Bali dengan terapis profesional. Pijat tradisional, spa home service, melayani Seminyak, Kuta, Canggu, Ubud, Nusa Dua.">Real Massage Bali - Professional 24-hour home massage service in Bali. Traditional massage, spa home service, serving Seminyak, Kuta, Canggu, Ubud, Nusa Dua.</p>
+                <p class="mb-6 text-neutral-400 text-sm sm:text-base leading-relaxed" data-en="Real Massage Bali - Professional 24-hour home massage service in Bali. Traditional massage, spa home service, serving Canggu, Prererenan, Seminyak, Kuta, Nusa Dua, Uluwatu, Jimbaran, Sanur, Denpasar, Ubud" data-id="Real Massage Bali - Layanan pijat panggilan 24 jam di Bali dengan terapis profesional. Pijat tradisional, spa home service, melayani Canggu, Prererenan, Seminyak, Kuta, Nusa Dua, Uluwatu, Jimbaran, Sanur, Denpasar, Ubud">Real Massage Bali - Professional 24-hour home massage service in Bali. Traditional massage, spa home service, serving Canggu, Prererenan, Seminyak, Kuta, Nusa Dua, Uluwatu, Jimbaran, Sanur, Denpasar, Ubud.</p>
                 <div class="space-y-3">
                     <div class="flex items-center justify-center md:justify-start gap-3">
                         <i class="fas fa-envelope text-primary-400 text-sm"></i>
@@ -13,7 +13,7 @@
                     </div>
                     <div class="flex items-center justify-center md:justify-start gap-3">
                         <i class="fas fa-phone text-primary-400 text-sm"></i>
-                        <span class="text-neutral-300 text-sm sm:text-base">+62 859-2989-3713</span>
+                        <span class="text-neutral-300 text-sm sm:text-base">+62 812-2025-9505</span>
                     </div>
                 </div>
             </div>

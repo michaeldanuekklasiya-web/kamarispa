@@ -66,7 +66,7 @@
         "name": "Real Massage Bali",
         "description": "Layanan pijat panggilan 24 jam di Bali dengan terapis profesional",
         "url": "{{ url('/') }}",
-        "telephone": "+6281220259505,
+        "telephone": "+6281220259505",
             "email": "realmassagebali@gmail.com",
         "address": {
             "@type": "PostalAddress",
@@ -181,18 +181,19 @@
 
     <!-- Floating WhatsApp Icon -->
     <a href="https://wa.me/6281220259505" target="_blank"
-        class="fixed bottom-20 sm:bottom-24 right-4 sm:right-6 bg-green-500 text-white p-3 sm:p-4 rounded-full shadow-xl hover:bg-green-600 transition duration-300 z-50 group">
+        class="fixed bottom-16 sm:bottom-20 md:bottom-24 right-3 sm:right-4 md:right-6 bg-green-500 text-white p-3 sm:p-4 rounded-full shadow-xl hover:bg-green-600 transition duration-300 z-50 group"
+        title="WhatsApp Real Massage Bali - +62 812-2025-9505">
         <i class="fab fa-whatsapp text-lg sm:text-xl"></i>
-        <span class="absolute right-full mr-3 top-1/2 transform -translate-y-1/2 bg-gray-800 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap" data-en="Chat WhatsApp" data-id="Chat WhatsApp">
-            Chat WhatsApp
+        <span class="absolute right-full mr-2 sm:mr-3 top-1/2 transform -translate-y-1/2 bg-gray-800 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap" data-en="Chat WhatsApp - +62 812-2025-9505" data-id="Chat WhatsApp - +62 812-2025-9505">
+            Chat WhatsApp - +62 812-2025-9505
         </span>
     </a>
 
     <!-- Back to Top Button -->
     <button onclick="scrollToTop()"
-        class="fixed bottom-4 sm:bottom-6 right-4 sm:right-6 bg-gray-800 text-white p-3 sm:p-4 rounded-full shadow-xl hover:bg-gray-900 transition duration-300 z-50 group">
+        class="fixed bottom-3 sm:bottom-4 md:bottom-6 right-3 sm:right-4 md:right-6 bg-gray-800 text-white p-3 sm:p-4 rounded-full shadow-xl hover:bg-gray-900 transition duration-300 z-50 group">
         <i class="fas fa-arrow-up text-lg sm:text-xl"></i>
-        <span class="absolute right-full mr-3 top-1/2 transform -translate-y-1/2 bg-gray-800 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap" data-en="Back to Top" data-id="Kembali ke Atas">
+        <span class="absolute right-full mr-2 sm:mr-3 top-1/2 transform -translate-y-1/2 bg-gray-800 text-white text-xs px-2 py-1 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap" data-en="Back to Top" data-id="Kembali ke Atas">
             Back to Top
         </span>
     </button>

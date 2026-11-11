@@ -164,7 +164,7 @@
                             At Real Massage Bali, our professional therapists are trained in various massage techniques to provide you with the most effective treatment for your specific needs. We offer 24-hour home service throughout Bali, bringing the spa experience directly to your doorstep.
                         </p>
                         <div class="flex flex-col sm:flex-row gap-4">
-                            <a href="https://wa.me/+6285929893713" target="_blank"
+                            <a href="https://wa.me/+6281220259505" target="_blank"
                                 class="bg-[#5b1641] text-white px-8 py-3 rounded-full font-semibold hover:bg-[#7e295e] transition duration-300 text-center" data-en="Book Your Massage Now" data-id="Pesan Pijat Anda Sekarang">
                                 Book Your Massage Now
                             </a>
@@ -254,7 +254,7 @@
     </div>
 
     <!-- Floating WhatsApp Icon -->
-    <a href="https://wa.me/6285929893713" target="_blank" class="fixed bottom-20 right-4 bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition duration-300 z-50">
+    <a href="https://wa.me/6281220259505" target="_blank" class="fixed bottom-20 right-4 bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition duration-300 z-50">
         <i class="fab fa-whatsapp text-xl"></i>
     </a>
 

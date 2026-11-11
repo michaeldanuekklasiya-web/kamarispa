@@ -11,10 +11,10 @@
         <div class="relative z-10 max-w-7xl mx-auto px-6 h-full flex items-center">
             <div class="text-white">
                 <h2 class="text-2xl md:text-3xl font-bold text-primary-400">
-                    Melayani Area Bali
+                    Serving the Bali Area
                 </h2>
                 <p class="mt-2 max-w-md text-gray-200">
-                    Kami siap melayani Anda kapan saja, baik pagi, siang, maupun malam hari.
+                    We are ready to serve you anytime, whether it's morning, afternoon, or night.
                 </p>
             </div>
         </div>

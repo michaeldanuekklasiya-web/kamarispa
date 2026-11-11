@@ -36,7 +36,7 @@
                     </div>
                     <div>
                         <h3 class="font-semibold text-[#5b1641] uppercase text-xs sm:text-sm mb-1">Our Location</h3>
-                        <p class="text-gray-500 text-sm sm:text-base">Canggu, Seminyak, Kuta, prererenan, Uluwatu, Nusa dua, Ubud.</p>
+                        <p class="text-gray-500 text-sm sm:text-base">Canggu, Prererenan, Seminyak, Kuta, Nusa Dua, Uluwatu, Jimbaran, Sanur, Denpasar, Ubud.</p>
                     </div>
                 </div>
 
@@ -65,7 +65,7 @@
                         </div>
                         <div>
                             <h3 class="font-semibold text-[#5b1641] uppercase text-xs sm:text-sm mb-1">Contact</h3>
-                            <p class="text-gray-500 text-sm sm:text-base">Phone: +62 859-2989-3713</p>
+                            <p class="text-gray-500 text-sm sm:text-base">Phone: +62 812-2025-9505</p>
                             <p class="text-gray-500 text-sm sm:text-base">Email: realmassagebali@gmail.com</p>
                         </div>
                     </div>
@@ -125,7 +125,7 @@
                 `⏰ *Request Time:* ${new Date().toLocaleString()}\n\n` +
                 `🙏 Thank you for choosing Real Massage Bali! We will contact you shortly to confirm your booking.`;
             
-            const whatsappNumber = '6285929893713';
+            const whatsappNumber = '6281220259505';
 
             // Redirect ke WhatsApp
             const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;

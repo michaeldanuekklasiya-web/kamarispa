@@ -43,7 +43,7 @@
                     <a href="{{ url('/service') }}" class="bg-[#5b1641] text-white px-6 py-3 rounded-full font-semibold hover:bg-[#7e295e] transition duration-300 text-center" data-en="Our Services" data-id="Layanan Kami">
                         Our Services
                     </a>
-                    <a href="https://wa.me/+6285929893713" target="_blank" class="border-2 border-[#5b1641] text-[#5b1641] px-6 py-3 rounded-full font-semibold hover:bg-[#5b1641] hover:text-white transition duration-300 text-center" data-en="Book Now" data-id="Pesan Sekarang">
+                    <a href="https://wa.me/+6281220259505" target="_blank" class="border-2 border-[#5b1641] text-[#5b1641] px-6 py-3 rounded-full font-semibold hover:bg-[#5b1641] hover:text-white transition duration-300 text-center" data-en="Book Now" data-id="Pesan Sekarang">
                         Book Now
                     </a>
                 </div>
@@ -293,11 +293,11 @@
                 Book your professional home massage service today and discover why thousands of clients trust Real Massage Bali for their wellness needs.
             </p>
             <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
-                <a href="https://wa.me/+6285929893713" target="_blank"
+                <a href="https://wa.me/+6281220259505" target="_blank"
                     class="bg-white text-[#5b1641] px-8 py-4 rounded-full font-semibold hover:bg-gray-100 transition duration-300" data-en="Book Now" data-id="Pesan Sekarang">
                     Book Now
                 </a>
-                <a href="tel:+6285929893713"
+                <a href="tel:+6281220259505"
                     class="border-2 border-white text-white px-8 py-4 rounded-full font-semibold hover:bg-white hover:text-[#5b1641] transition duration-300" data-en="Call Us" data-id="Hubungi Kami">
                     Call Us
                 </a>
@@ -310,7 +310,7 @@
     </div>
 
     <!-- Floating WhatsApp Icon -->
-    <a href="https://wa.me/6285929893713" target="_blank" class="fixed bottom-20 right-4 bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition duration-300 z-50">
+    <a href="https://wa.me/6281220259505" target="_blank" class="fixed bottom-20 right-4 bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition duration-300 z-50">
         <i class="fab fa-whatsapp text-xl"></i>
     </a>
 

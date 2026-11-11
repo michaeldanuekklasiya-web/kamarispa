@@ -216,7 +216,7 @@
     </div>
 
     <!-- Floating WhatsApp Icon -->
-    <a href="https://wa.me/6285929893713" target="_blank" class="fixed bottom-20 right-4 bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition duration-300 z-50">
+    <a href="https://wa.me/6281220259505" target="_blank" class="fixed bottom-20 right-4 bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition duration-300 z-50">
         <i class="fab fa-whatsapp text-xl"></i>
     </a>
 

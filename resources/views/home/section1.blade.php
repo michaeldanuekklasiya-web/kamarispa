@@ -44,12 +44,12 @@
                     <span data-en="REAL MASSAGE" data-id="REAL MASSAGE">REAL MASSAGE</span> <br class="sm:hidden"><span data-en="BALI" data-id="BALI">BALI</span>
                 </h1>
                 <p class="mt-2 sm:mt-3 text-sm sm:text-base md:text-lg font-serif leading-relaxed text-white/90" data-en="24 HOUR HOME SERVICE" data-id="PIJAT PANGGILAN 24 JAM">24 HOUR HOME SERVICE</p>
-                <p class="mt-4 sm:mt-6 text-xs sm:text-sm md:text-base lg:text-lg font-serif leading-relaxed text-white/80 max-w-lg mx-auto" data-en="Real Massage Bali - Professional 24-hour home massage service in Bali. Traditional massage, spa home service, professional therapists. Serving Seminyak, Kuta, Canggu, Ubud, Nusa Dua." data-id="Real Massage Bali - Layanan pijat panggilan 24 jam di Bali. Pijat tradisional, spa home service, terapis profesional. Melayani Seminyak, Kuta, Canggu, Ubud, Nusa Dua.">
+                <p class="mt-4 sm:mt-6 text-xs sm:text-sm md:text-base lg:text-lg font-serif leading-relaxed text-white/80 max-w-lg mx-auto" data-en="Real Massage Bali - Professional 24-hour home massage service in Bali. Traditional massage, spa home service, professional therapists. Serving Canggu, Prererenan, Seminyak, Kuta, Nusa Dua, Uluwatu, Jimbaran, Sanur, Denpasar, Ubud" data-id="Real Massage Bali - Layanan pijat panggilan 24 jam di Bali. Pijat tradisional, spa home service, terapis profesional. Melayani Canggu, Prererenan, Seminyak, Kuta, Nusa Dua, Uluwatu, Jimbaran, Sanur, Denpasar, Ubud.">
                     Real Massage Bali - Professional 24-hour home massage service in Bali. Traditional massage, spa home service, 
-                    professional therapists. Serving Seminyak, Kuta, Canggu, Ubud, Nusa Dua.
+                    professional therapists. Serving Canggu, Prererenan, Seminyak, Kuta, Nusa Dua, Uluwatu, Jimbaran, Sanur, Denpasar, Ubud.
                 </p>
                 <div class="mt-6 sm:mt-8 flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-4">
-                    <a href="https://wa.me/+6285929893713" target="_blank"
+                    <a href="https://wa.me/+6281220259505" target="_blank"
                         class="w-full sm:w-auto bg-white text-[#f354b6] px-6 py-3 rounded-full text-sm font-semibold shadow-lg hover:bg-gray-100 transition-all duration-300 text-center" data-en="BOOK NOW" data-id="BOOKING">
                         BOOK NOW
                     </a>
